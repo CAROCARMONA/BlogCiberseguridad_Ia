@@ -212,11 +212,11 @@
 .nav-section .navbar .navbar-nav .nav-item {
     height: 40px;
     padding: 0;
-    margin-bottom: 3px;
+    margin-bottom: 5px;
     border: 1px solid rgba(0, 0, 0, .08);
     background: var(--bs-white);
     color: var(--bs-body);
-    font-size: 14px;
+    font-size: 13px;
     font-weight: 700;
     transition: 0.5s;
 }
@@ -400,7 +400,7 @@
 }
 
 .portfolio-content .portfolio-item .portfolio-img .portfolio-img-inner {
-    visibility: hidden;
+    
     transition: 0.5s;
 }
 
